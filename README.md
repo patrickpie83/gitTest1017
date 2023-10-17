@@ -2,4 +2,4 @@
 - penguin
 - Oria
 - Patrick
-- Jot-chiang
+- Joy
